@@ -1,0 +1,6 @@
+public class Bankai {
+    void power(){
+        System.out.println("Shikai");
+    }
+}
+an new line is add
