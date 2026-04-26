@@ -2,5 +2,7 @@ public class Bankai {
     void power(){
         System.out.println("Shikai");
     }
+    void species(){
+        System.out.pritnln("Arrancar");
 }
-an new line is add
+
