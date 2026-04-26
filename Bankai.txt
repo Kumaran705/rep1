@@ -2,6 +2,9 @@ public class Bankai {
     void power(){
         System.out.println("Shikai");
     }
+    void species(){
+        System.out.pritnln("Arrancar");
+}
     void attack(){
         System.out.println('Getsuga Tensho");
 }
